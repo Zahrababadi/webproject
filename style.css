@@ -50,3 +50,15 @@ label {
   font-size: 1.125rem;
   margin-bottom: 0.5rem;
 }
+.container {
+  width: 100%;
+  margin: 3.125rem auto 0 auto;
+  max-width: 540px;
+  min-width: 768px;
+}
+
+.header {
+  padding: 0 0.625rem;
+  margin-bottom: 1.875rem;
+  color: white;
+}
