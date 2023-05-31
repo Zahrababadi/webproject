@@ -62,3 +62,12 @@ label {
   margin-bottom: 1.875rem;
   color: white;
 }
+
+textarea {
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+.text-center {
+  text-align: center;
+}
